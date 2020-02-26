@@ -1,3 +1,6 @@
+// Author: Asfandyar Jadoon
+// DMOJ Problem Link: https://dmoj.ca/problem/16bitswonly
+
 package main
 
 import (
